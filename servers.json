@@ -1,0 +1,20 @@
+{
+  "body": {
+    "v": 1,
+    "issued": "2026-11-23T06:54:38.674Z",
+    "servers": [
+      {
+        "url": "wss://sixtyhertz.oalindustries.me",
+        "name": "Main",
+        "proto": [
+          1,
+          1
+        ]
+      }
+    ],
+    "notice": "",
+    "latest": "1.4.0"
+  },
+  "sig": "v9gya7shssaKJAa5LDCHEKKpnc7P2svGae+H40SvfpKmhfH3omS2Oe2aC3csJ4+KD66uWpMX/YN4verG5MvxAQ==",
+  "kid": 0
+}
