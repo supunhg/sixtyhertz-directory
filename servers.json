@@ -1,7 +1,7 @@
 {
   "body": {
     "v": 1,
-    "issued": "2026-11-25T03:23:27.482Z",
+    "issued": "2026-11-25T12:30:53.558Z",
     "servers": [
       {
         "url": "wss://sixtyhertz.oalindustries.me",
@@ -13,8 +13,8 @@
       }
     ],
     "notice": "",
-    "latest": "1.4.3"
+    "latest": "1.4.4"
   },
-  "sig": "sA5LBcBrY6/OE7QrJ9bMGc9gXdUww/X3F4Fl/6+n/NSMqApcZvsAe9TjGyN9yRANCF3xCwxK5u2SIkm31WuYBg==",
+  "sig": "2up8cG1aDbpU8KLLYLU+rgBZYD1vfBFk7MuIrZC8KGSTXhqJKTrPmwaka4d7sZg8r51w112wUR6I2hHv2hV8Cg==",
   "kid": 0
 }
